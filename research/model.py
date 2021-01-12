@@ -1,10 +1,3 @@
-#https://www.deploymachinelearning.com/
-#cd ml_srv
-#source srv/bin/activate
-#git add backend/ #add dir no git
-#git commit -am "foldername"
-#git push
-
 import json # will be needed for saving preprocessing details
 import numpy as np # for data manipulation
 import pandas as pd # for data manipulation
